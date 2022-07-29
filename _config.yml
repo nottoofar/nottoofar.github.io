@@ -1,6 +1,14 @@
-title: Minimal theme
+title: <p align="center"> Thamilvaanan Thiyagaraja </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/thamilvaanan/">LinkedIn</a> |
+  <a href="https://github.com/nottoofar">GitHub</a>
+  
+  <br>An experienced and versatile Java software professional ,Togaf Certified, AWS Certified Solution Architect - Associate with 12+ years of experience in designing, developing and maintaining complex JAVA enterprise software solutions for high profile companies(Pratt and Whitney, Thomson Reuters, IDEMIA, Oracle, VISA) . Experienced in working in an Agile/SCRUM environment and using open source and commercial libraries and frameworks for implementing solutions for diverse business domains such as Marketing, Hospitality and Healthcare. Interested in SOA, event driven architecture, microservices, AI and Machine learning and cloud computing.
+  <br>
+  </p>
+
 theme: jekyll-theme-minimal
